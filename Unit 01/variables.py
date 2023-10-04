@@ -42,3 +42,6 @@ print(f"Game running: {running}")
 
 
 print("Hola soy una prueba xD")
+print("Hola soy una prueba xD")
+print("Hola soy una prueba xD")
+print("Hola soy una prueba xD")
