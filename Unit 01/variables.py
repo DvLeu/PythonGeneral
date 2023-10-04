@@ -41,10 +41,3 @@ print(f"Is the item for sale?: {for_sale}")
 print(f"Game running: {running}")
 
 
-print("Hola soy una prueba xD")
-print("Hola soy una prueba xD")
-print("Hola soy una prueba xD")
-print("Hola soy una prueba xD")
-print("Hola soy una prueba xD")
-print("Hola soy una prueba xD")
-print("Hola soy una prueba xD")
