@@ -1,4 +1,4 @@
-
+#Mad Libs
 adjetive = input("Enter an adjetive ")
 noun = input("Enter a noun ")
 adjetive2 = input("Enter an adjetive ")

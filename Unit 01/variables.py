@@ -1,3 +1,4 @@
+#Variables
 # variable = a reusable container for storing a value
 # a variable behaves as if it were the value it contains
 
@@ -21,6 +22,7 @@ price = 10.99
 print(f"Your gpa is {gpa}")
 print(f"You ran {distance}Km")
 print(f"The price is ${price}")
+
 
 # STRING
 name = "Dvleu"
