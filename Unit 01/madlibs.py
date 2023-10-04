@@ -10,3 +10,4 @@ print(f"Today i went to a {adjetive} zoo. ")
 print(f"In an exhibit, I saw {noun}. ")
 print(f"{noun} was {adjetive2 } and {verb}ing")
 print(f"I was {adjetive3}")
+
