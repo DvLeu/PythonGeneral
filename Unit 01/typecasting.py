@@ -3,6 +3,7 @@
 #                          (string, integer, float, boolean)
 #                          Explicit vs Implicit
 
+
 name = "David"
 age = 21
 gpa = 1.9

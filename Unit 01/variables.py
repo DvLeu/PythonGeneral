@@ -28,7 +28,6 @@ print(f"The price is ${price}")
 name = "Dvleu"
 food = "pizza"
 email = "Dvleu@gmail.com"
-
 print(f"Hello {name}")
 print(f"You like {food}")
 print(f"Your email is: {email}")
