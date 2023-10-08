@@ -9,4 +9,4 @@ condicion = 1
 #Example only recomended in very short code lines.
 #Only IF and ELSE
 
-print('Condicion verdadera ') if condicion else print('Condicion Falsa ')
+print('Condition True  ') if condicion else print('Flase Condition  ')
